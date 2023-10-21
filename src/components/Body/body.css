@@ -1,0 +1,22 @@
+.postBody{
+    margin: 0 130px;
+}
+.title-blog{
+    margin-top: 250px;
+    
+}
+.title{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+}
+.text{
+    font-size: 20px;
+    line-height: 60px;
+    word-spacing: 0px;
+    display: block;
+    max-width: 800px;
+}
+.btns{
+    margin-top: 30px;
+}
